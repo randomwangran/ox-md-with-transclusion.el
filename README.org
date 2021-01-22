@@ -8,3 +8,12 @@ WIP
 ** backward link list
 https://github.com/randomwangran/oremacs/commit/6cf9edf00f9dffb6bac8868230f1836b45579118
 ** id is the time-slot
+
+* example to solve
+
+[electron](file:~/20210122083257-glossary_in_physics.md) should be [electron]
+
+org-pdftools link:
+file-id followed by page;
+if the title of the file is there, then add title first
+
